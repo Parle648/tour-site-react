@@ -1,0 +1,22 @@
+.white {
+    border: 2px solid #fff;
+    border-radius: 3.8em;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: black;
+    background-color: transparent;
+    padding: 11px 25px;
+}
+.white:hover {
+    background-color: rgba(255, 255, 255, 0.8);
+    cursor: pointer;
+}
+.black {
+    border: 1px solid black;
+    border-radius: 3.8em;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+    padding: 11px 25px;
+}

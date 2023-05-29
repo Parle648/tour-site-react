@@ -1,0 +1,16 @@
+.header-nav__list {
+    width: 754px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.header-nav__link {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.header-nav__link:hover {
+    color: rgba(0, 0, 0, 0.8);
+}
